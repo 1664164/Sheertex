@@ -1,29 +1,10 @@
-# Next.js + Tailwind CSS Example
+# Sheertex Skill Assessment Test
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This assement is to test my understanding on how well I can transform "design files" into the code.
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+I had to create a project that hosted one page and code a layout that included a headr, 3 icons in the body, and a footer. The final versions of the project is suppose to be a home page that promotes the Sheertex products and even learn more about them. The project is setup using nextjs code with tailwindcss styling. 
 
-## Preview
+This project took me six days to complete, 42 hours in total. The first two days, I had to fammilerise my self in nextjs and tailwindcss since it was the firts time I had to use these type of coding languages. The remainning four days was spent completing a nav component for the header, a footer component for the footer, and the three icons for the body.
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+The final version of project isn't a 100% replica of the eaxmple that was given but it is still very simillar.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
